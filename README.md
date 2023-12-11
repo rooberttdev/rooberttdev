@@ -1,7 +1,6 @@
 # <div align= "center">Oi! Eu sou o Robert Barbosa</div>
 
 - ###  🧑🏻‍💻 **Desenvolvedor Front End Jr**
-- ###  💻**Estudante de Ciência da Computação 7/8**
 
 <div align="center">
   <a href="https://github.com/rooberttdev">
